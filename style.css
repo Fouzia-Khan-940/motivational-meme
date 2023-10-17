@@ -1,0 +1,28 @@
+     
+h1{
+    font-family: 'Caveat', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Libre Baskerville', serif;
+color:aliceblue;
+font-size: 1.5rem;
+}
+html{
+    background-color: black;
+}
+
+img{
+    border: 5px solid white;
+    align-items: center;
+    width: 100%;
+    
+}
+p{
+    color: aquamarine;
+    font-size: small;
+    }
+    div{
+        width: 50%;
+        margin-left: 25%;
+        text-align: center;
+        margin-top: 100px;
+    }
